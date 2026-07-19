@@ -1,6 +1,6 @@
 # Hi! 👋 What's up?
 
-### Insurance Sales Assistant transitioning to Backend Developer. 
+**Insurance Sales Assistant transitioning to Backend Developer.** 
 
 * Some hate Java; others understand it.
 * Some trust in talent; others in hard work.
