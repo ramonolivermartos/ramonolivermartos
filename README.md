@@ -14,12 +14,6 @@ Two years into programming, I still find myself getting into a state of flow. Th
 
 I started with a full-stack PHP/Laravel bootcamp at IT Academy in 2025. My growing interest in data structures, software architecture and security led me toward Java and backend development.
 
-<div align="center">
-
-<img title="" src="assets/profile.png" alt="Portrait of Ramón Oliver Martos" width="220" data-align="center">
-
-</div>
-
 ## Sobre mí
 
 Estoy reorientando mi carrera profesional hacia el desarrollo backend. Actualmente curso el bootcamp de Java Backend (Spring Boot) en IT Academy, Barcelona.
