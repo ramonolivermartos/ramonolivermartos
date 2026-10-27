@@ -24,26 +24,6 @@ Comencé con un bootcamp de desarrollo full-stack con PHP/Laravel en IT Academy 
 
 <img src="assets/divider.svg" alt="" width="100%">
 
-## Currently Building
-
-### Travel Planner — Early-stage Development
-
-A REST API for planning and organizing trips, integrating external location data through Geoapify.
-
-**Planned tech stack:** Java · Spring Boot · PostgreSQL
-
-The project focuses on:
-
-- Itinerary modeling and trip organization.
-
-- REST API design and external API integration.
-
-- Database persistence and data modeling.
-
-- Maintainable architecture and software design patterns.
-
-<img src="assets/divider.svg" alt="" width="100%">
-
 ## Currently Learning
 
 **Computer Science:** Data Structures · Design Patterns · Software Security
